@@ -11,7 +11,6 @@ public class HelloService {
 
    public static  void main(String[] agrs){
        System.out.println("first git project test");
-
        System.out.println("second git project test");
    }
 }
